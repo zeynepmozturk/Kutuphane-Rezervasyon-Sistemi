@@ -1,5 +1,8 @@
 
 Bu çalışma, kütüphanelerdeki oturma alanları ve grup çalışma odalarının daha etkin ve verimli bir şekilde yönetilmesini sağlamak amacıyla geliştirilen bir dijital rezervasyon sistemini konu almaktadır. Geliştirilen sistem sayesinde kullanıcılar, istedikleri tarih ve zaman dilimi için oturma alanlarını veya grup çalışma odalarını kolaylıkla rezerve edebilmektedir. Bununla birlikte, kullanıcıların rezervasyonlarını iptal edebilmesi ve rezervasyon saatinde ilgili alanda bulunmamaları durumunda kişisel eşyalarının güvenli bir şekilde emanet altına alınabilmesi gibi ek işlevler de sisteme entegre edilmiştir.
+
 Web tabanlı olarak geliştirilen sistem, PHP programlama dili kullanılarak oluşturulmuş ve veri yönetimi için SQL Server veritabanı ile entegre edilmiştir. Sistem yöneticileri, tüm rezervasyonları anlık olarak izleyebilmekte ve gerekli müdahaleleri gerçekleştirebilmektedir. Bu proje ile birlikte kütüphane alanlarının daha planlı ve verimli kullanılması hedeflenmiş; aynı zamanda kullanıcı memnuniyetinin artırılması amaçlanmıştır.
+
 Anahtar Kelimeler:
+
 Kütüphane otomasyonu, dijital rezervasyon sistemi, oturma alanı yönetimi, grup çalışma odası, PHP, SQL Server, kullanıcı memnuniyeti, web tabanlı uygulama.
